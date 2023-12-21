@@ -23,16 +23,25 @@ Types of Neural Netowrks:
 3. Recurrent Neural Networks (RNN)
 
     1. Artificial Neural Networks (ANN):
-        Description: Basic form of neural networks, consisting of interconnected nodes or neurons organized into input, hidden, and output layers.
-        Function: Used for general tasks like classification and regression.
-        Key Characteristics: Information flows in one direction from input to output layer.
 
-    2. Convolutional Neural Networks (CNN):
+        Description: Basic form of neural networks, consisting of interconnected nodes or neurons organized into input, hidden, and output layers.
+
+        Function: Used for general tasks like classification and regression.
+
+       Key Characteristics: Information flows in one direction from input to output layer.
+
+    3. Convolutional Neural Networks (CNN):
+
         Description: Specialized neural networks designed for processing structured data like images.
+
         Function: Highly effective in image recognition, pattern detection, and computer vision tasks.
+
         Key Characteristics: Leverages convolutional layers to extract spatial hierarchies and patterns from images.
 
-    3. Recurrent Neural Networks (RNN):
-        Description: Neural networks with loops, allowing information to persist, making them suitable for sequential data.
-        Function: Excelling in tasks like natural language processing, time series analysis, and sequential data processing.
+    5. Recurrent Neural Networks (RNN):
+
+       Description: Neural networks with loops, allowing information to persist, making them suitable for sequential data.
+
+       Function: Excelling in tasks like natural language processing, time series analysis, and sequential data processing.
+
         Key Characteristics: Feedback loops enable information retention and processing of sequential data.
