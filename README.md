@@ -3,6 +3,7 @@
 - [What is a Neural Network](#what-is-a-neural-network)
 - [Artificial Neural Network](#artificial-neural-network)
 - [Convolution Neural Network](#convolution-neural-network)
+- [Recurrent Neural Network](#recurrent=neural-network)
 
 
 ## What is a Neural Network
