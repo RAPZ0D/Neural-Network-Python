@@ -23,4 +23,6 @@ Types of Neural Netowrks:
 3. Recurrent Neural Networks (RNN)
 
 
-Here is a very informative video about Neural Networks. It is a video by 3Blue1Brown [!What is Neural Network](https://www.youtube.com/watch?v=aircAruvnKk)
+Here is a very informative video about Neural Networks. It is a video by 3Blue1Brown [What is Neural Network](https://www.youtube.com/watch?v=aircAruvnKk)
+![neural](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/24f148d8-f2e9-4fac-b236-1eeb4e5c6dd6)
+
