@@ -23,3 +23,4 @@ Types of Neural Netowrks:
 3. Recurrent Neural Networks (RNN)
 
 
+Here is a very informative video about Neural Networks. It is a video by 3Blue1Brown [!What is Neural Network](https://www.youtube.com/watch?v=aircAruvnKk)
