@@ -82,3 +82,11 @@ The benifits of using ANNs are:
 - Parallel Processing: They can process information simultaneously across nodes, allowing for parallel computation and faster processing of tasks compared to traditional algorithms.
 
 - Generalization: ANNs can generalize patterns from the data they've been trained on, making them applicable to new, unseen data—a crucial aspect for real-world applications.
+
+A Visualization of ANN
+
+![nn1](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/55482176-4dd9-4bbd-9f44-b2a7654fa403)
+
+
+Types of ANN 
+![nn](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/9358c96e-2070-4a1c-88ed-70409c0976fb)
