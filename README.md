@@ -116,13 +116,15 @@ CNNs excel in processing structured data like images, learning hierarchical repr
 
 The Images Explain how the Convolution Neural Network works:
 
-![convo](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/ca329bca-39bc-452d-8fec-70908566d03d)
+**Architecture of CNNs**
 
-![convo1](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/fe8cbff5-dac9-46cf-ac7f-a991fe2d9b59)
+![convo](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/ca329bca-39bc-452d-8fec-70908566d03d)
 
 
 ![convo2](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/6659679f-952d-4804-a5d2-e125a49d0cdd)
 
+
+**Classification using CNN**
 
 ![convo3](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/8fcff785-85c9-4eac-9bdc-9901cad432bc)
 
