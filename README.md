@@ -19,7 +19,7 @@ Some of its applications are:
 2. Natural Language Processing (NLP): RNNs are effective in processing sequences of words for tasks like language translation, sentiment analysis, and text generation.
 3. Predictive Analysis and Forecasting: Neural networks are used extensively in financial forecasting, trend analysis, and predictive modeling.
 
-Types of Neural Netowrks: 
+**Types of Neural Netowrks:**
 1. Artificial Neural Netowrks (ANN)
 2. Convolution Neural Netowkr (CNN)
 3. Recurrent Neural Networks (RNN)
@@ -32,7 +32,7 @@ So Neural Network is inspired by the biological neuron in a simplified manner. A
 ![neural](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/24f148d8-f2e9-4fac-b236-1eeb4e5c6dd6)
 
 
-The MATH behind Neural Networks
+**The MATH behind Neural Networks**
 
 Neural Networks in Machine Learning is a combination of Biology and Mathematics. Math is the key language behind neural networks, helping them understand and process information efficiently. It's crucial because it enables these networks to describe how neurons work together, perform calculations quickly, and learn from examples. Math also guides the fine-tuning of these networks, ensuring they make accurate predictions and generalize well to new, unseen data. It's like the foundation that allows neural networks to do their job—making sense of data, learning from it, and making useful decisions or predictions. Without math, it would be really tough for these networks to work effectively and learn from the world around them.
 Here's an overview along with some key mathematical elements:
@@ -63,7 +63,7 @@ Here's an overview along with some key mathematical elements:
 
  ![math_neural](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/9442ab8c-066a-495c-89b6-ca2dee9d4830)
 
- The Activation Functions 
+ **The Activation Functions**
  
 ![graphs](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/25cd6677-b553-46b7-b269-42d86c606176)
 
@@ -83,11 +83,11 @@ The benifits of using ANNs are:
 
 - Generalization: ANNs can generalize patterns from the data they've been trained on, making them applicable to new, unseen data—a crucial aspect for real-world applications.
 
-A Visualization of ANN
+**A Visualization of ANN**
 
 ![nn1](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/55482176-4dd9-4bbd-9f44-b2a7654fa403)
 
 
-Types of ANN 
+__Types of ANN__
 
 ![nn](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/9358c96e-2070-4a1c-88ed-70409c0976fb)
