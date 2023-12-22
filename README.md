@@ -91,3 +91,25 @@ The benifits of using ANNs are:
 __Types of ANN__
 
 ![nn](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/9358c96e-2070-4a1c-88ed-70409c0976fb)
+
+
+## Convolution Neural Network
+
+- **Explanation of Convolutional Neural Networks (CNNs)**:
+  - CNNs leverage specialized layers, including:
+    - *Convolutional Layers*: Apply filters to extract features like edges and textures.
+    - *Pooling Layers*: Downsample features while retaining crucial information.
+    - *Fully Connected Layers*: Perform classification based on learned features.
+
+- **Uses and Applications**:
+  1. *Image Classification*: Accurately categorize images into various classes.
+  2. *Object Detection*: Identify and localize multiple objects within an image.
+  3. *Image Segmentation*: Segment images into meaningful parts, crucial in medical imaging.
+  4. *Feature Extraction*: Extract learned features for transfer learning.
+
+- **Math Behind CNNs**:
+  - **Convolution Operation**: Element-wise multiplication and summation between filters and image patches.
+  - **Pooling Operations**: Max pooling or average pooling for downsampling.
+  - **Activation Functions**: Introduce non-linearity in CNN layers.
+
+CNNs excel in processing structured data like images, learning hierarchical representations, and extracting intricate features—fundamental in modern computer vision applications.
