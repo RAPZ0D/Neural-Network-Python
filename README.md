@@ -128,3 +128,5 @@ The Images Explain how the Convolution Neural Network works:
 
 ![convo3](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/8fcff785-85c9-4eac-9bdc-9901cad432bc)
 
+
+## Recurrent Neural Network
