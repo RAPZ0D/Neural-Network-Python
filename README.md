@@ -130,3 +130,33 @@ The Images Explain how the Convolution Neural Network works:
 
 
 ## Recurrent Neural Network
+
+### Recurrent Neural Networks (RNNs)
+
+- **Explanation of Recurrent Neural Networks (RNNs)**:
+  - RNNs process sequential data by maintaining a hidden state that evolves as new inputs are fed in. They utilize recurrent connections to retain context from previous inputs.
+  - Components include a hidden state, recurrent connections, and gate mechanisms (e.g., LSTM, GRU) that enhance long-term dependencies.
+
+- **Uses and Applications**:
+  1. *Natural Language Processing (NLP)*: Crucial in language modeling, translation, sentiment analysis, and text generation due to their sequential data processing capability.
+  2. *Time Series Prediction*: Used in financial forecasting, weather prediction, and any domain involving sequential data.
+  3. *Speech Recognition*: Applied in systems processing sequences of audio signals for speech recognition.
+  4. *Video Analysis*: Used in video classification, action recognition, and video description tasks.
+
+- **Building Blocks**:
+  - *Vanishing Gradient*: RNNs may suffer from the vanishing gradient problem, affecting their ability to learn long-term dependencies efficiently.
+  - *Long Short-Term Memory (LSTM)*: Addresses vanishing gradient by introducing gating mechanisms for better learning of long-term dependencies.
+  - *Gated Recurrent Unit (GRU)*: A simplified variation of LSTM, maintaining advantages in handling long-term dependencies.
+
+RNNs are powerful tools for processing sequential data, retaining memory across time steps, and finding applications in diverse domains requiring sequential modeling and understanding.
+
+- **Mathematical Aspects**:
+  - **Hidden State Evolution**:
+    - At each time step \( t \), the hidden state \( h_t \) is updated based on the input \( x_t \) and the previous hidden state \( h_{t-1} \) using a function \( f \) with parameters \( W \):
+      \[ h_t = f(x_t, h_{t-1}; W) \]
+  - **Backpropagation Through Time (BPTT)**:
+    - Derivatives are computed through the unfolded network in time, allowing gradients to be propagated backward. However, vanishing gradients can affect long-term dependencies.
+  - **Long Short-Term Memory (LSTM) Math**:
+    - LSTM introduces gates (input, forget, output) controlled by sigmoid and tanh functions to regulate information flow, addressing the vanishing gradient issue. It updates the cell state \( C_t \) and hidden state \( h_t \) based on inputs and previous states.
+  - **Gated Recurrent Unit (GRU) Math**:
+    - GRU simplifies the LSTM architecture by merging the cell state and hidden state, using reset and update gates to control the flow of information.
