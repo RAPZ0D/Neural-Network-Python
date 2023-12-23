@@ -164,7 +164,7 @@ RNNs are powerful tools for processing sequential data, retaining memory across 
 
 Visualizing RNNs: An illustrative diagram providing a graphical insight into the structure and flow of Recurrent Neural Networks (RNNs).
 
-![rnn](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/68271d06-f707-4731-bbe2-80e7400d5621)
-
 ![rnns](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/2409a405-d601-45c2-aba5-8b5fd114b6ea)
 
+
+![rnn](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/c74c91b5-b641-496a-aa20-c35acf9bee93)
