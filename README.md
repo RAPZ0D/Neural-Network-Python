@@ -91,6 +91,11 @@ The benifits of using ANNs are:
 __Types of ANN__
 ![types](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/729bb417-be2c-4398-b5d5-16fcc95a17cb)
 
+
+<p align="center">
+  <img src="https://github.com/RAPZ0D/Neural-Network-Python/blob/main/assets/100001521/729bb417-be2c-4398-b5d5-16fcc95a17cb.png" alt="Description of your image">
+</p>
+
 ## Convolution Neural Network
 
 - **Explanation of Convolutional Neural Networks (CNNs)**:
