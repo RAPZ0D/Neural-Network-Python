@@ -148,8 +148,6 @@ The Images Explain how the Convolution Neural Network works:
   - *Long Short-Term Memory (LSTM)*: Addresses vanishing gradient by introducing gating mechanisms for better learning of long-term dependencies.
   - *Gated Recurrent Unit (GRU)*: A simplified variation of LSTM, maintaining advantages in handling long-term dependencies.
 
-RNNs are powerful tools for processing sequential data, retaining memory across time steps, and finding applications in diverse domains requiring sequential modeling and understanding.
-
 - **Mathematical Aspects**:
   - **Hidden State Evolution**:
     - At each time step \( t \), the hidden state \( h_t \) is updated based on the input \( x_t \) and the previous hidden state \( h_{t-1} \) using a function \( f \) with parameters \( W \):
@@ -160,3 +158,6 @@ RNNs are powerful tools for processing sequential data, retaining memory across 
     - LSTM introduces gates (input, forget, output) controlled by sigmoid and tanh functions to regulate information flow, addressing the vanishing gradient issue. It updates the cell state \( C_t \) and hidden state \( h_t \) based on inputs and previous states.
   - **Gated Recurrent Unit (GRU) Math**:
     - GRU simplifies the LSTM architecture by merging the cell state and hidden state, using reset and update gates to control the flow of information.
+
+
+RNNs are powerful tools for processing sequential data, retaining memory across time steps, and finding applications in diverse domains requiring sequential modeling and understanding.
