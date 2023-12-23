@@ -167,4 +167,5 @@ Visualizing RNNs: An illustrative diagram providing a graphical insight into the
 ![rnns](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/2409a405-d601-45c2-aba5-8b5fd114b6ea)
 
 
-![rnn](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/c74c91b5-b641-496a-aa20-c35acf9bee93)
+![rnn1](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/8eda07e2-779b-4990-9648-4e4773cb2076)
+
