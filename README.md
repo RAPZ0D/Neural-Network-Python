@@ -1,6 +1,7 @@
 # Neural Networks
 
 - [What is a Neural Network](#what-is-a-neural-network)
+- [Libraries for building a Neural Network](#libraries-for-building-a-neural-netwok)
 - [Artificial Neural Network](#artificial-neural-network)
 - [Convolution Neural Network](#convolution-neural-network)
 - [Recurrent Neural Network](#recurrent-neural-network)
@@ -67,6 +68,8 @@ Here's an overview along with some key mathematical elements:
  
 ![graphs](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/25cd6677-b553-46b7-b269-42d86c606176)
 
+
+## Libraries for building a Neural Network
 
 ## Artificial Neural Network 
 Artificial Neural Networks (ANNs) are computational models inspired by the human brain's neural structure. They consist of interconnected nodes (neurons) arranged in layers, including input, hidden, and output layers. ANNs process information in a way that allows them to learn patterns and relationships within data. ANNs mimic the brain's interconnected neurons, where each neuron receives inputs, processes them, and produces an output. Similarly, in ANNs, nodes receive inputs, apply weights to these inputs, sum them up with biases, and pass the result through an activation function to generate an output. The network learns by adjusting these weights and biases through training, optimizing its ability to make accurate predictions or classifications.
