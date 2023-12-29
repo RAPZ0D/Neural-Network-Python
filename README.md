@@ -73,6 +73,18 @@ Here's an overview along with some key mathematical elements:
 
 When developing neural networks in Python, several key libraries play integral roles in the construction, training, and evaluation of models. Here are the fundamental libraries used for building neural networks:
 
+1. **TensorFlow / Keras**:
+   - **TensorFlow**: A powerful open-source machine learning library developed by Google Brain. It provides a flexible ecosystem for building and deploying machine learning models, especially neural networks.
+   - **Keras**: A high-level neural networks API, often used as an interface on top of TensorFlow. It enables rapid prototyping and experimentation, offering ease of use and flexibility.
+
+2. **PyTorch**:
+   - Developed by Facebook's AI Research lab, PyTorch is another widely used open-source deep learning library. It's known for its dynamic computation graph and simplicity in building neural networks.
+
+3. **NumPy**:
+   - NumPy is a fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, essential for handling data in neural networks.
+
+
+
 
 ## Artificial Neural Network 
 Artificial Neural Networks (ANNs) are computational models inspired by the human brain's neural structure. They consist of interconnected nodes (neurons) arranged in layers, including input, hidden, and output layers. ANNs process information in a way that allows them to learn patterns and relationships within data. ANNs mimic the brain's interconnected neurons, where each neuron receives inputs, processes them, and produces an output. Similarly, in ANNs, nodes receive inputs, apply weights to these inputs, sum them up with biases, and pass the result through an activation function to generate an output. The network learns by adjusting these weights and biases through training, optimizing its ability to make accurate predictions or classifications.
