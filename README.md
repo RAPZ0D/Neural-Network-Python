@@ -93,6 +93,8 @@ When developing neural networks in Python, several key libraries play integral r
 6. **Scikit-learn**:
    - Though primarily known for machine learning algorithms, Scikit-learn provides utilities for preprocessing data, splitting datasets, and evaluation metrics that can complement neural network workflows.
 
+### Role and Importance
+These libraries collectively provide a comprehensive toolkit for building, training, and deploying neural networks. They facilitate various tasks such as model creation, data handling, visualization, and evaluation, streamlining the development process and enhancing the capabilities of neural network-based applications.
 
 
 ## Artificial Neural Network 
