@@ -83,6 +83,15 @@ When developing neural networks in Python, several key libraries play integral r
 3. **NumPy**:
    - NumPy is a fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, essential for handling data in neural networks.
 
+4. **Pandas**:
+   - Pandas is a powerful library used for data manipulation and analysis. It provides data structures like DataFrames, which are helpful for preprocessing and organizing data for neural network training.
+
+5. **Matplotlib / Seaborn**:
+   - **Matplotlib**: A plotting library for Python that helps in visualizing data, plotting graphs, and displaying neural network architectures or training progress.
+   - **Seaborn**: Another data visualization library built on top of Matplotlib, offering enhanced aesthetics and statistical plotting.
+
+6. **Scikit-learn**:
+   - Though primarily known for machine learning algorithms, Scikit-learn provides utilities for preprocessing data, splitting datasets, and evaluation metrics that can complement neural network workflows.
 
 
 
