@@ -38,7 +38,7 @@ plt.legend()
 plt.title('Distribution of Features')
 plt.xlabel('Values')
 plt.ylabel('Frequency')
-plt.show()
+plt.show();
 
 # Select columns for boxplot
 columns_for_boxplot = ['mean radius', 'mean texture', 'mean perimeter', 'mean area']
