@@ -64,6 +64,7 @@ Here's an overview along with some key mathematical elements:
 
  ![math_neural](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/9442ab8c-066a-495c-89b6-ca2dee9d4830)
 
+ 
  **The Activation Functions**
  
 ![graphs](https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/25cd6677-b553-46b7-b269-42d86c606176)
