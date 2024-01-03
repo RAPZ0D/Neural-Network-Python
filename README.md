@@ -143,7 +143,7 @@ __Types of ANN__
 
 CNNs excel in processing structured data like images, learning hierarchical representations, and extracting intricate features—fundamental in modern computer vision applications.
 
-The Images Explain how the Convolution Neural Network works:
+The Images will Explain how the Convolution Neural Network works:
 
 **Architecture of CNNs**
 
