@@ -1,4 +1,4 @@
-# Neural Networks
+# Neural Networks Using Python
 
 - [What is a Neural Network](#what-is-a-neural-network)
 - [Libraries for building a Neural Network](#libraries-for-building-a-neural-network)
