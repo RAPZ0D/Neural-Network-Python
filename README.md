@@ -198,4 +198,3 @@ Visualizing the RNN: An illustrative diagram providing a graphical insight into 
 
 <p align="center"> <img src="https://github.com/RAPZ0D/Neural-Network-Python/assets/100001521/8eda07e2-779b-4990-9648-4e4773cb2076"> </p>
 
-
