@@ -6,7 +6,6 @@
 - [Recurrent Neural Network](#recurrent-neural-network)
 
 
-
 ## What is a Neural Network
 What is Neural Networks?
 Neural Networks are computational systems inspired by the human brain's structure and function. They consist of interconnected nodes, or neurons, organized into layers that process information.
